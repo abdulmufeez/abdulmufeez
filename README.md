@@ -7,7 +7,7 @@
     Let's make something cool and amazing together!  <br>
     :sparkles: Favorite Tech: .NET, Angular, SQL, Python ... <br>
     :email:	abdul_mufeez@outlook.com <br>
-    <!-- :art: Portfolio: https://saadpasta.github.io <br> -->
+    :bookmark_tabs: https://abdulmufeez.github.io <br> 
     :briefcase: LinkedIn: https://www.linkedin.com/in/abdulmufeez <br>
     <a href="https://1drv.ms/b/s!AqDKTzEnce3yhmcvx5trTg4HU6OP?e=peveMB">📄 Resume</a>
   </samp>
