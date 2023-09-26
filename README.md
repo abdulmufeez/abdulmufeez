@@ -5,11 +5,12 @@
     With a relentless pursuit of excellence and a never-ending quest to expand my knowledge and expertise. <br> 
     Whether you're here to explore my projects, collaborate on a new project, or just to say hello, I am always happy to connect.  <br>
     Let's make something cool and amazing together!  <br>
-    :sparkles: Favorite Tech: .NET, Angular, SQL, Python ... <br>
-    :email:	abdul_mufeez@outlook.com <br>
+    :sparkles: Favorite Tech: .NET and SQL ... <br>
+    <!-- :email:	abdul_mufeez@outlook.com <br> -->
+    :email:	<a href="mailto:abdul_mufeez@outlook.com">abdul_mufeez@outlook.com</a> <br>
     :bookmark_tabs: https://abdulmufeez.github.io <br> 
     :briefcase: LinkedIn: https://www.linkedin.com/in/abdulmufeez <br>
-    <a href="https://1drv.ms/b/s!AqDKTzEnce3yhmcvx5trTg4HU6OP?e=peveMB">📄 Resume</a>
+    <!-- <a href="https://1drv.ms/b/s!AqDKTzEnce3yhmcvx5trTg4HU6OP?e=peveMB">📄 Resume</a> -->
   </samp>
 </p>
 
